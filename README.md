@@ -14,3 +14,5 @@ Linear regression model was build to find correlation between Math SAT scores an
 Solution:
 3 states were identified as the best states to work. Universities that offer graduate degrees were established to have the highest salaries. Correlation was found between Math SAT scores of incoming students and average faculty salaries.
 
+Tableau Story:
+https://public.tableau.com/app/profile/kira.kuznetsov/viz/CollegeAnalysis_16248978600580/Story1
